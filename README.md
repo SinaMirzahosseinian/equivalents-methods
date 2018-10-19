@@ -2,12 +2,14 @@
 
 <table>
   <tr>
-    <th>Description <th>
+    <th>Number</th>
+    <th>Description </th>
     <th>JAVASCRIPT</th>
     <th>PHP</th>
     <th>PYTHON</th>
   </tr>
   <tr>
+    <td>1</td>
     <td>Concatination literal</td>
     <td>`hello ${sina}`</td>
     <td>'hello'.$sina</td>
