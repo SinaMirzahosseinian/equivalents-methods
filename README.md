@@ -65,6 +65,14 @@
     <td> + </td>
     <th></th>
   </tr>
+  <tr>
+    <td>8</td>
+    <td>check exist</td>
+    <td>.includes()</td>
+    <td>item in list</td>
+    <td> + </td>
+    <th></th>
+  </tr>
   
 </table>
 
