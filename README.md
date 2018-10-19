@@ -57,6 +57,14 @@
     <td>.split()</td>
     <th></th>
   </tr>
+  <tr>
+    <td>7</td>
+    <td>array concat</td>
+    <td>.concat()</td>
+    <td>array_merge</td>
+    <td> + </td>
+    <th></th>
+  </tr>
   
 </table>
 
