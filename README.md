@@ -76,7 +76,7 @@
   <tr>
     <td>9</td>
     <td>array delete duplicate</td>
-    <td></td>
+    <td>[...new Set()];</td>
     <td>array_unique</td>
     <td></td>
     <th>_.uniq</th>
