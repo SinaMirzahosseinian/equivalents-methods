@@ -46,7 +46,15 @@
     <td>array2string</td>
     <td>.join(" ")</td>
     <td>implode(" " , )</td>
-    <td>" ".reduce()</td>
+    <td>" ".join()</td>
+    <th></th>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>string2array</td>
+    <td>.split()</td>
+    <td>explode(" " , )</td>
+    <td>.split()</td>
     <th></th>
   </tr>
   
