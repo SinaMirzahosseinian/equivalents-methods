@@ -76,11 +76,36 @@
   <tr>
     <td>9</td>
     <td>array delete duplicate</td>
-    <td>[...new Set()];</td>
+    <td>[...new Set()]</td>
     <td>array_unique</td>
     <td></td>
     <th>_.uniq</th>
   </tr>
+  <tr>
+    <td>10</td>
+    <td>return index/key</td>
+    <td>.indexOf()</td>
+    <td>array_search</td>
+    <td>.index()</td>
+    <th></th>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>reverse</td>
+    <td>.reverse()</td>
+    <td>array_reverse()</td>
+    <td>.reverse()</td>
+    <th></th>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>element count</td>
+    <td>.length</td>
+    <td>count() </td>
+    <td>len() </td>
+    <th></th>
+  </tr>
+   
   
 </table>
 
