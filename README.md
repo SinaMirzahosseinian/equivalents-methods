@@ -78,7 +78,7 @@
     <td>array delete duplicate</td>
     <td>[...new Set()]</td>
     <td>array_unique</td>
-    <td></td>
+    <td>list(set())</td>
     <th>_.uniq</th>
   </tr>
   <tr>
@@ -112,6 +112,14 @@
     <td>array_diff() </td>
     <td>list(set(a)-set(b))</td>
     <th>_.difference()</th>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>add to end</td>
+    <td>.push()</td>
+    <td>array_push </td>
+    <td>.append()</td>
+    <th></th>
   </tr>
    
   
