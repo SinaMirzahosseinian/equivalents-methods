@@ -117,8 +117,48 @@
     <td>14</td>
     <td>add to end</td>
     <td>.push()</td>
-    <td>array_push </td>
+    <td>array_push() </td>
     <td>.append()</td>
+    <th></th>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>delete from end</td>
+    <td>.pop()</td>
+    <td>array_pop() </td>
+    <td>.pop()</td>
+    <th></th>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>delete specific</td>
+    <td>.splice(,1)</td>
+    <td>array_splice() </td>
+    <td>.pop()</td>
+    <th></th>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>delete first</td>
+    <td>.shift()</td>
+    <td>array_shift() </td>
+    <td>.pop(0)</td>
+    <th></th>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>add to beging</td>
+    <td>.unshift()</td>
+    <td>array_unshift() </td>
+    <td>.insert(0,)</td>
+    <th></th>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>add to specific</td>
+    <td>.splice()</td>
+    <td>array_splice </td>
+    <td>.insert(,)</td>
     <th></th>
   </tr>
    
