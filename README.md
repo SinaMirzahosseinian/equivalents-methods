@@ -69,8 +69,8 @@
     <td>8</td>
     <td>check exist</td>
     <td>.includes()</td>
-    <td>item in list</td>
-    <td> + </td>
+    <td>in-array()</td>
+    <td> item in list </td>
     <th></th>
   </tr>
   
