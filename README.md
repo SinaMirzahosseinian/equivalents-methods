@@ -105,6 +105,14 @@
     <td>len() </td>
     <th></th>
   </tr>
+  <tr>
+    <td>13</td>
+    <td>difference</td>
+    <td></td>
+    <td>array_diff() </td>
+    <td>list(set(a)-set(b))</td>
+    <th>_.difference()</th>
+  </tr>
    
   
 </table>
