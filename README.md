@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td>2</td>
-    <td>Concatination literal</td>
+    <td>mapping through array</td>
     <td>map</td>
     <td>array_map($callback,$array1)</td>
     <td>map</td>
