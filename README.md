@@ -25,6 +25,22 @@
     <td>map()</td>
     <th></th>
   </tr>
+  <tr>
+    <td>3</td>
+    <td>array filter</td>
+    <td>filter()</td>
+    <td>array_filter()</td>
+    <td>filter()</td>
+    <th></th>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>array reduce</td>
+    <td>reduce()</td>
+    <td>array_reduce()</td>
+    <td>reduce()</td>
+    <th></th>
+  </tr>
   
 </table>
 
