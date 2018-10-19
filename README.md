@@ -11,7 +11,7 @@
   <tr>
     <td>1</td>
     <td>Concatination literal</td>
-    <td>`hello ${sina}`</td>
+    <td>`hello ${sina}` - 'hello' + sina</td>
     <td>'hello'.$sina</td>
     <td>'hello' %s (sina) - 'hello' + sina</td>
   </tr>
