@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th>Number</th>
+    <th></th>
     <th>Description </th>
     <th>JAVASCRIPT</th>
     <th>PHP</th>
