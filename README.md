@@ -15,7 +15,7 @@
     <td>`hello ${sina}` - 'hello' + sina</td>
     <td>'hello'.$sina</td>
     <td>'hello' %s (sina) - 'hello' + sina</td>
-    <th></th>
+    <td></td>
   </tr>
   <tr>
     <td>2</td>
@@ -23,7 +23,7 @@
     <td>map()</td>
     <td>array_map()</td>
     <td>map()</td>
-    <th></th>
+    <td></td>
   </tr>
   <tr>
     <td>3</td>
@@ -31,7 +31,7 @@
     <td>filter()</td>
     <td>array_filter()</td>
     <td>filter()</td>
-    <th></th>
+    <td></td>
   </tr>
   <tr>
     <td>4</td>
@@ -39,7 +39,7 @@
     <td>reduce()</td>
     <td>array_reduce()</td>
     <td>reduce()</td>
-    <th></th>
+    <td></td>
   </tr>
   <tr>
     <td>5</td>
@@ -47,7 +47,7 @@
     <td>.join(" ")</td>
     <td>implode(" " , )</td>
     <td>" ".join()</td>
-    <th></th>
+    <td></td>
   </tr>
   <tr>
     <td>6</td>
@@ -55,7 +55,7 @@
     <td>.split()</td>
     <td>explode(" " , )</td>
     <td>.split()</td>
-    <th></th>
+    <td></td>
   </tr>
   <tr>
     <td>7</td>
@@ -63,7 +63,7 @@
     <td>.concat()</td>
     <td>array_merge</td>
     <td> + </td>
-    <th></th>
+    <td></td>
   </tr>
   <tr>
     <td>8</td>
@@ -71,7 +71,7 @@
     <td>.includes()</td>
     <td>in_array()</td>
     <td> item in list </td>
-    <th></th>
+    <td></td>
   </tr>
   <tr>
     <td>9</td>
@@ -79,7 +79,7 @@
     <td>[...new Set()]</td>
     <td>array_unique</td>
     <td>list(set())</td>
-    <th>_.uniq</th>
+    <td>_.uniq</td>
   </tr>
   <tr>
     <td>10</td>
@@ -87,7 +87,7 @@
     <td>.indexOf()</td>
     <td>array_search</td>
     <td>.index()</td>
-    <th></th>
+    <td></td>
   </tr>
   <tr>
     <td>11</td>
@@ -95,7 +95,7 @@
     <td>.reverse()</td>
     <td>array_reverse()</td>
     <td>.reverse()</td>
-    <th></th>
+    <td></td>
   </tr>
   <tr>
     <td>12</td>
@@ -103,7 +103,7 @@
     <td>.length</td>
     <td>count() </td>
     <td>len() </td>
-    <th></th>
+    <td></td>
   </tr>
   <tr>
     <td>13</td>
@@ -111,15 +111,16 @@
     <td></td>
     <td>array_diff() </td>
     <td>list(set(a)-set(b))</td>
-    <th>_.difference()</th>
+    <td>_.difference()</td>
   </tr>
   <tr>
     <td>14</td>
-    <td>add to end</td>
-    <td>.push()</td>
-    <td>array_push() </td>
-    <td>.append()</td>
-    <th></th>
+    <td>delete first</td>
+    <td>.shift()</td>
+    <td>array_shift() </td>
+    <td>.pop(0)</td>
+    <td></td>
+    
   </tr>
   <tr>
     <td>15</td>
@@ -127,7 +128,7 @@
     <td>.pop()</td>
     <td>array_pop() </td>
     <td>.pop()</td>
-    <th></th>
+    <td></td>
   </tr>
   <tr>
     <td>16</td>
@@ -135,15 +136,16 @@
     <td>.splice(,1)</td>
     <td>array_splice() </td>
     <td>.pop()</td>
-    <th></th>
+    <td></td>
   </tr>
   <tr>
     <td>17</td>
-    <td>delete first</td>
-    <td>.shift()</td>
-    <td>array_shift() </td>
-    <td>.pop(0)</td>
-    <th></th>
+    <td>add to end</td>
+    <td>.push()</td>
+    <td>array_push() </td>
+    <td>.append()</td>
+    <td></td>
+  
   </tr>
   <tr>
     <td>18</td>
@@ -151,7 +153,7 @@
     <td>.unshift()</td>
     <td>array_unshift() </td>
     <td>.insert(0,)</td>
-    <th></th>
+    <td></td>
   </tr>
   <tr>
     <td>19</td>
@@ -159,7 +161,7 @@
     <td>.splice()</td>
     <td>array_splice </td>
     <td>.insert(,)</td>
-    <th></th>
+    <td></td>
   </tr>
    
   
