@@ -19,10 +19,10 @@
   </tr>
   <tr>
     <td>2</td>
-    <td>mapping through array</td>
-    <td>map</td>
-    <td>array_map($callback,$array1)</td>
-    <td>map</td>
+    <td>array map</td>
+    <td>map()</td>
+    <td>array_map()</td>
+    <td>map()</td>
     <th></th>
   </tr>
   
