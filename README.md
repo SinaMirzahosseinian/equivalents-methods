@@ -41,6 +41,14 @@
     <td>reduce()</td>
     <th></th>
   </tr>
+  <tr>
+    <td>5</td>
+    <td>array2string</td>
+    <td>.join(" ")</td>
+    <td>implode(" " , )</td>
+    <td>" ".reduce()</td>
+    <th></th>
+  </tr>
   
 </table>
 
