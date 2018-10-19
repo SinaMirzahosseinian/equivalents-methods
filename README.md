@@ -69,9 +69,17 @@
     <td>8</td>
     <td>check exist</td>
     <td>.includes()</td>
-    <td>in-array()</td>
+    <td>in_array()</td>
     <td> item in list </td>
     <th></th>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>array delete duplicate</td>
+    <td></td>
+    <td>array_unique</td>
+    <td></td>
+    <th>_.uniq</th>
   </tr>
   
 </table>
