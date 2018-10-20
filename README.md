@@ -259,6 +259,22 @@
     <td></td>
     <td></td>
   </tr>
+  <tr>
+    <td>23</td>
+    <td></td>
+    <td>Object.keys()</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td></td>
+    <td>Object.values()</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
   
    
   
