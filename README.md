@@ -174,7 +174,7 @@
   <tr>
     <td>21</td>
     <td></td>
-    <td></td>
+    <td>Object.keys()</td>
     <td>array_keys</td>
     <td></td>
     <td></td>
@@ -182,7 +182,7 @@
   <tr>
     <td>22</td>
     <td></td>
-    <td></td>
+    <td>Object.values()</td>
     <td>array_values</td>
     <td></td>
     <td></td>
@@ -262,7 +262,7 @@
   <tr>
     <td>23</td>
     <td></td>
-    <td>Object.keys()</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -270,7 +270,7 @@
   <tr>
     <td>23</td>
     <td></td>
-    <td>Object.values()</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
