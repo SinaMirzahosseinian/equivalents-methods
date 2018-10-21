@@ -262,8 +262,8 @@
   <tr>
     <td>23</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>import - require()</td>
+    <td>include_once() - require_once()</td>
     <td></td>
     <td></td>
   </tr>
