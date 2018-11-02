@@ -269,10 +269,26 @@
   </tr>
   <tr>
     <td>23</td>
+    <td>scope</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td></td>
+    <td>replace()</td>
+    <td>str_replace</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>PackageManger</td>
+    <td>NPM</td>
+    <td>Composer</td>
+    <td>pip</td>
     <td></td>
   </tr>
   
