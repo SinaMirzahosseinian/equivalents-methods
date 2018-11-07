@@ -291,6 +291,14 @@
     <td>pip</td>
     <td></td>
   </tr>
+  <tr>
+    <td>23</td>
+    <td>packages</td>
+    <td>npmjs.com/</td>
+    <td>packagist.org/</td>
+    <td>pypi.org/</td>
+    <td></td>
+  </tr>
   
    
   
